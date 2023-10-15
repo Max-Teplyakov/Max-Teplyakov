@@ -2,7 +2,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=max-teplyakov&label=Profile%20views&color=0e75b6&style=flat" alt="max-teplyakov" /> </p>
 
-- 🌱 В настоящее время я изучаю ** Redux, TypeScript **
+- 🌱 Хочу развиваться в Веб-Разработке и постоянно совершенствоваться
+
+- 🏃 В погоне за читсым кодом
+
+- 💻 В настоящее время я изучаю ** Redux, TypeScript **
 
 - 📫 Как со мной связаться:  [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/max_tepl)
 
